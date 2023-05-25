@@ -1,0 +1,466 @@
+
+.box{
+    box-sizing: border-box;
+    position: absolute;
+    width: 132px;
+    height: 852px;
+    left: 57px;
+    top: 43px;
+    background: #0C0B0B;
+    border-radius: 24px;
+    box-shadow: 20px 20px 50px grey;
+}
+    .symbol{
+        position: absolute;
+        width: 50;
+        left: 104px;
+        top: 90px;
+    }
+    .home{
+        box-sizing: border-box;
+        position: absolute;
+        left: 6.88%;
+        right: 90.35%;
+        top: 30%;
+    }
+    .fork{
+        position: absolute;
+        left:7%;
+        top:48%;
+    }
+.cart{
+    position: absolute;
+    left: 6.70%;
+    top: 70%;
+    width: 50px;
+}
+.map{
+    position: absolute;
+    left: 7%;
+    top: 93%;
+    width: 45px;
+}
+    
+.switch{
+    position: absolute;
+    left: 110px;
+    top: 790px;    
+}
+.pink{
+    position: absolute;
+    width: 134px;
+    height: 122px;
+    left: 56px;
+    top: 437px;
+    background: #F1D5BB;
+}
+.background{
+    position: absolute;
+    width: 608px;
+    height: 608px;
+    left: 244px;
+    top: 135px;
+    background: #F1D5BB;
+    border-radius: 3px;
+}
+.food1{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 264px;
+    top: 172px;
+    border-radius: 45px;
+}
+.food2{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 264px;
+    top: 318px;
+    border-radius: 45px;
+}
+.food3{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 264px;
+    top: 464px;
+    border-radius: 45px;
+}
+.food4{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 264px;
+    top: 610px;
+    border-radius: 45px;
+}
+#Avo{
+    position: absolute;
+    left: 390px;
+    top: 182px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+#Yin{
+    position: absolute;
+    left: 390px;
+    top: 321px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+#Pancakes{
+    position: absolute;
+    left: 390px;
+    top: 472px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+#Ranch{
+    position: absolute;
+    left: 390px;
+    top: 625px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+}
+#pay1{
+    position: absolute;
+    left: 390px;
+    top: 227px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+#pay2{
+    position: absolute;
+    left: 390px;
+    top: 371px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+#pay3{
+    position: absolute;
+    left: 390px;
+    top: 520px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+#pay4{
+    position: absolute;
+    left: 390px;
+    top: 676px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+     color: #000000;    
+}
+#minus1{
+    position: absolute;
+    width: 11px;
+    height: 24px;
+    left: 636px;
+    top: 184px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#minus2{
+    position: absolute;
+    width: 11px;
+    height: 24px;
+    left: 634px;
+    top: 340px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#minus3{
+    position: absolute;
+    width: 11px;
+    height: 24px;
+    left: 634px;
+    top: 478px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#minus4{
+    position: absolute;
+    width: 11px;
+    height: 24px;
+    left: 634px;
+    top: 625px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#plus1{
+    position: absolute;
+    width: 12px;
+    height: 25px;
+    left: 718px;
+    top: 185px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#plus2{
+    position: absolute;
+    width: 12px;
+    height: 25px;
+    left: 716px;
+    top: 342px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#plus3{
+    position: absolute;
+    width: 12px;
+    height: 25px;
+    left: 716px;
+    top: 481px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+#plus4{
+    position: absolute;
+    width: 12px;
+    height: 25px;
+    left: 716px;
+    top: 628px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+}
+.b1{
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 660px;
+    top: 201px;
+    background: #FFFFFF;
+}
+.b2{
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 658px;
+    top: 357px;
+    background: #FFFFFF;
+}
+.b3{
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 658px;
+    top: 494px;
+    background: #FFFFFF;
+}
+.b4{
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 658px;
+    top: 641px;
+    background: #FFFFFF;
+}
+.cl1{
+    position: absolute;
+    left: 54%;
+    top: 30%;
+}
+.cl2{
+    position: absolute;
+    left: 54%;
+    top: 52%;
+}
+.cl3{
+    position: absolute;
+    left: 54%;
+    top: 72%;
+}
+.cl4{
+    position: absolute;
+    left: 54%;
+    top: 93.3%;
+}
+.bspace{
+    position: absolute;
+    width: 443px;
+    height: 286px;
+    left: 893px;
+    top: 135px;
+    background: #F1D5BB;
+    border-radius: 3px;
+}
+.subtotal{
+    position: absolute;
+    left: 933px;
+    top: 125px;
+    font-family: 'Mulish', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+}
+.sb{
+    position: absolute;
+    left: 933px;
+    top: 218px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.8)
+}
+.Amt{
+    position: absolute;
+    left: 1080px;
+    top: 218px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.btnn{
+    position: absolute;
+    width: 365px;
+    height: 78px;
+    left: 933px;
+    top: 313px;
+    background: #000000;
+    color: #FFFFFF;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.hd{
+    position: absolute;
+    width: 135px;
+    height: 63px;
+    left: 243px;
+    top: 3px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 50px;
+    color: #000000;
+}
+.line{
+    position: absolute;
+    width: 134px;
+    height: 5px;
+    left: 243px;
+    top: 106px;
+    background: #F1D5BB;
+}
+.wbox{
+    box-sizing: border-box;
+    position: absolute;
+    width: 443px;
+    height: 326px;
+    left: 893px;
+    top: 417px;
+    background: #FFFFFF;
+    border: 1px solid #F1D5BB;
+    border-radius: 3px;
+}
+#Pc{
+    position: absolute;
+    width: 227px;
+    height: 50px;
+    left: 933px;
+    top: 410px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+}
+#promo{
+    box-sizing: border-box;
+    position: absolute;
+    width: 365px;
+    height: 78px;
+    left: 933px;
+    top: 525px;
+    background: #FFFFFF;
+    border: 1px solid #F1D5BB;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.Apply{
+    position: absolute;
+    width: 166px;
+    height: 78px;
+    left: 933px;
+    top: 632px;
+    background: #000000;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.copy{
+    position: absolute;
+    width: 250px;
+    height: 19px;
+    left: 244px;
+    top: 951px;
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}

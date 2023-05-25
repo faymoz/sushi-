@@ -1,0 +1,58 @@
+img{
+    width: 1600px;
+    height: 1000px;
+    justify-items: center;
+}
+
+.sushi{
+position: absolute;
+width: 830px;
+height: 75px;
+left: 309px;
+top: 288px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 1px;
+color: #f8f7f7;
+}
+
+.hero{
+position: absolute;
+width: 822px;
+height: 62px;
+left: 309px;
+top: 412px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+color: #FFFFFF;
+}
+.btn{
+    position: absolute;
+    width: 240px;
+    height: 70px;
+    left: 460px;
+    top: 548px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    border: 2px solid #FFFFFF;
+    color: #0f0505;
+    font-size: 30px;
+}
+
+.btn2{
+    position: absolute;
+width: 240px;
+height: 70px;
+left: 730px;
+top: 548px;
+background: #FFFFFF;
+border-radius: 2px;
+border: 2px solid #FFFFFF;
+font-size: 30px;
+}
